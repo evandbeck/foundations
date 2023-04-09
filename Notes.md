@@ -1,0 +1,11 @@
+### How Does The Web Work?
+- The *Internet* is a global computer network providing a variety of information and communication facilities, consisting of interconnected networks using standardized communication protocols. 
+- The *World Wide Web* is an information system on the internet which allows documents to be connected to other documents by hypertext links, enabling the user to search for information by moving from one document to another.
+- https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Web_mechanics/How_does_the_Internet_work
+- https://www.youtube.com/watch?v=7_LPdttKXPc
+- https://www.youtube.com/watch?v=x3c1ih2NJEg
+- Servers are connected to the Internet, Clients (like my PC) are not inherintley connected to the Internet, but instead connect via an ISP (Internet Service Provider).
+- A *packet* is a small segment of a larger message. Data sent over computer networks, such as the Internet, is divided into packets. These packets are then recombined by the computer or device that receives them.
+- Everything connected directly or indirectly to the Internet has an *IP (Internet Protocol)* address.
+- *Routers* direct packets around the Internet, found between IPs. There can be many routers between two communicating IP addresses.
+- A *DNS* (Domain Name System) server is essentially the phonebook of the Internet, used to connect domain names with the correct IP address of said site.
